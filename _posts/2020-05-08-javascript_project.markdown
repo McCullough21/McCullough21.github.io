@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Javascript Project"
-date:       2020-05-08 23:52:06 +0000
+date:       2020-05-08 19:52:07 -0400
 permalink:  javascript_project
 ---
 
