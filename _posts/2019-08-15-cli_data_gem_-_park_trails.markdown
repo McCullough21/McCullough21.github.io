@@ -1,11 +1,10 @@
 ---
 layout: post
-title:      "One Project At A Time - Michael McCullough"
+title:      "CLI Data Gem - Park Trails"
 date:       2019-08-15 11:03:41 -0400
 permalink:  cli_data_gem_-_park_trails
 ---
 
-#CLI Data Gem - Park Trails
 
 
 
