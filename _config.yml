@@ -1,11 +1,11 @@
 # Site settings
 author: Michael McCullough
-title: CLI Portfolio Project
+title: One Project at a Time
 header-img: img/home-bg.png
 email: michael.mccullough21@gmail.com
 copyright_name: Michael McCullough
 description: > # this means to ignore newlines until "baseurl:"
-  Park Trails
+  A student's experience
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  McCullough21
